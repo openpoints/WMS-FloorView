@@ -1,2 +1,2 @@
-# WMS-App
-WMS HHD Application
+# WMS-Floorview
+WMS Floorview
